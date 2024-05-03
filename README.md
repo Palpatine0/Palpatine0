@@ -1,6 +1,6 @@
+### Hi there 👋, my name is Percival
 <div align="center">
 
-### Hi there 👋, my name is Percival
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Palpatine0&show_icons=true&count_private=true)
 
