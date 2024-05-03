@@ -9,6 +9,7 @@
 <div style="display: flex">
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=Palpatine0)
+
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Palpatine0&show_icons=true&count_private=true)
 </div>
 
