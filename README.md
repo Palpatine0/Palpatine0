@@ -2,7 +2,7 @@
 <div align="center">
 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Palpatine0&show_icons=true&count_private=true)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Palpatine0&theme=default)
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=Palpatine0)
 
