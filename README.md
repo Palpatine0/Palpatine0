@@ -1,33 +1,27 @@
 ## Hi there 👋, my name is Percival
 
 <br>
-<br>
 
 #### GitHub Activity
 
 <hr>
 <div align="center">
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Palpatine0&theme=default)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Palpatine0&show_icons=true&count_private=true)
 
-
-<div style="display: flex">
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=Palpatine0)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Palpatine0&show_icons=true&count_private=true)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Palpatine0&theme=default)
+
+
+
 
 </div>
 
-
-</div>
-
-#### Used Tools
-
+#### Languages
 <hr>
-
 <div style="display: flex">
-
 <img width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
 <img width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
 <img width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/json/json-original.svg" />
@@ -35,8 +29,24 @@
 <img width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
 <img width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" />
 <img width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
-
 </div>
+
+#### Tools
+<hr>
+<div style="display: flex">
+<img width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" />
+<img width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pycharm/pycharm-original.svg" />
+<img width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/clion/clion-original.svg" />
+<img width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/phpstorm/phpstorm-original.svg" />
+<img width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
+<img width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" />
+<img width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original.svg" />
+<img width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />
+<img width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg" />
+<img width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" />
+</div>
+
+
 
 #### Social Media
 
