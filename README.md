@@ -1,7 +1,7 @@
-## Hi there 👋, my name is Percival
+# Hi there 👋, my name is Percival
 <br>
 
-#### GitHub Activity
+## GitHub Activity
 
 <div align="center">
 
@@ -14,7 +14,7 @@
 
 </div>
 
-#### Languages
+## Languages
 
 <div style="display: flex;justify-content: space-between" align="center">
 <img width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
@@ -27,7 +27,7 @@
 <img width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
 </div>
 
-#### Tools
+## Tools
 
 <div style="display: flex;justify-content: space-between" align="center">
 
@@ -42,7 +42,7 @@
 
 </div>
 
-#### Databases
+## Databases
 
 <div style="display: flex;justify-content: space-between" align="center">
 <img width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
@@ -51,7 +51,7 @@
 
 </div>
 
-#### Frameworks
+## Frameworks
 
 <div style="display: flex;justify-content: space-between" align="center">
 
@@ -64,7 +64,7 @@
 
 </div>
 
-#### IDEs
+## IDEs
 
 <div style="display: flex;justify-content: space-between" align="center">
 
@@ -77,7 +77,7 @@
 
 </div>
 
-#### Social Media
+## Social Media
 
 
 <div style="display: flex;justify-content: space-between" align="center">
