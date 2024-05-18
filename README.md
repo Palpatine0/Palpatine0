@@ -80,10 +80,12 @@
 ### Social Media
 
 <div style="display: flex;justify-content: space-between" align="center">
-    <img width="55" height="55" src="https://img.icons8.com/nolan/512/github.png" alt="github" href="https://github.com/Palpatine0"/>
-    <img width="55" height="55" src="https://img.icons8.com/color/480/instagram-new--v1.png" alt="instagram-new--v1" href="https://www.instagram.com/0thespian0/"/>
-    <img width="55" height="55" src="https://img.icons8.com/color/480/twitterx--v1.png" alt="twitterx--v1" href="https://twitter.com/0DonPercival0"/>
-    <img width="55" height="55" src="https://img.icons8.com/color/480/youtube-play.png" alt="youtube-play" href="https://www.youtube.com/channel/sheevpalpatine6814"/>
-    <img width="55" height="55" src="https://img.icons8.com/color/480/reddit.png" alt="reddit" href="https://www.reddit.com/user/0Percival0"/>
+
+<a href="https://github.com/Palpatine0"><img width="55" height="55" src="https://img.icons8.com/nolan/512/github.png" alt="github" /></a>
+<a href="https://www.instagram.com/0thespian0/"><img width="55" height="55" src="https://img.icons8.com/color/480/instagram-new--v1.png" alt="instagram-new--v1" /></a>
+
+<img width="55" height="55" src="https://img.icons8.com/color/480/twitterx--v1.png" alt="twitterx--v1" href="https://twitter.com/0DonPercival0"/>
+<img width="55" height="55" src="https://img.icons8.com/color/480/youtube-play.png" alt="youtube-play" href="https://www.youtube.com/channel/sheevpalpatine6814"/>
+<img width="55" height="55" src="https://img.icons8.com/color/480/reddit.png" alt="reddit" href="https://www.reddit.com/user/0Percival0"/>
 </div>
           
