@@ -1,4 +1,5 @@
 ## Hi there 👋, my name is Percival
+
 <br>
 
 #### GitHub Activity
@@ -79,9 +80,11 @@
 
 #### Social Media
 
-
 <div style="display: flex;justify-content: space-between" align="center">
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/)   [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/0thespian0/)   [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/0DonPercival0)   [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/sheevpalpatine6814)   [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/reddit.svg' alt='Reddit' height='40'>](https://www.reddit.com/user/0Percival0)
+    <img width="55" height="55" src="https://img.icons8.com/nolan/512/github.png" alt="github" href="https://github.com/Palpatine0"/>
+    <img width="55" height="55" src="https://img.icons8.com/color/480/instagram-new--v1.png" alt="instagram-new--v1" href="https://www.instagram.com/0thespian0/"/>
+    <img width="55" height="55" src="https://img.icons8.com/color/480/twitterx--v1.png" alt="twitterx--v1" href="https://twitter.com/0DonPercival0"/>
+    <img width="55" height="55" src="https://img.icons8.com/color/480/youtube-play.png" alt="youtube-play" href="https://www.youtube.com/channel/sheevpalpatine6814"/>
+    <img width="55" height="55" src="https://img.icons8.com/color/480/reddit.png" alt="reddit" href="https://www.reddit.com/user/0Percival0"/>
 </div>
           
