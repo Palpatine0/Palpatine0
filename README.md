@@ -1,6 +1,9 @@
-# Hi there 👋, my name is Percival <img style="" width="30" height="30" src="https://img.icons8.com/ios-filled/500/000000/empire.png" alt="empire"/>
+# Hi there 👋, my name is Percival 
 
 <br>
+<div align="center">
+<img style="" width="30" height="30" src="https://img.icons8.com/ios-filled/500/000000/empire.png" alt="empire"/>
+</div>
 
 #### GitHub Activity
 <div align="center">
