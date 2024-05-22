@@ -1,4 +1,4 @@
-# Hi there 👋, my name is Percival
+# Hi there 👋, my name is Percival <img style="" width="30" height="30" src="https://img.icons8.com/ios-filled/500/000000/empire.png" alt="empire"/>
 
 <br>
 
@@ -82,8 +82,9 @@
 <div style="display: flex;justify-content: space-between" align="center">
 
 
-<a href="https://www.snapchat.com/add/emperorsidious0"><img width="55" height="55" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/96/external-snapchat-a-multimedia-messaging-app-used-globally-logo-color-tal-revivo.png" alt="external-snapchat-a-multimedia-messaging-app-used-globally-logo-color-tal-revivo"/></a>
+<a href="https://leetcode.com/u/emperorsheevpalpatine0/"><img width="55" height="55" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/96/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png" alt="external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo"/></a>
 <a href="https://github.com/Palpatine0"><img width="55" height="55" src="https://img.icons8.com/nolan/512/github.png" alt="github" /></a>
+<a href="https://www.snapchat.com/add/emperorsidious0"><img width="55" height="55" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/96/external-snapchat-a-multimedia-messaging-app-used-globally-logo-color-tal-revivo.png" alt="external-snapchat-a-multimedia-messaging-app-used-globally-logo-color-tal-revivo"/></a>
 <a href="https://www.instagram.com/0thespian0/"><img width="55" height="55" src="https://img.icons8.com/color/480/instagram-new--v1.png" alt="instagram-new--v1" /></a>
 <a href="https://twitter.com/0DonPercival0"><img width="55" height="55" src="https://img.icons8.com/color/480/twitterx--v1.png" alt="twitterx--v1"/></a>
 <a href="https://www.youtube.com/channel/sheevpalpatine6814"><img width="55" height="55" src="https://img.icons8.com/color/480/youtube-play.png" alt="youtube-play"/></a>
