@@ -2,7 +2,7 @@
 
 <br>
 <div align="center">
-<img style="" width="30" height="30" src="https://img.icons8.com/ios-filled/500/000000/empire.png" alt="empire"/>
+<img style="" width="80" height="80" src="https://img.icons8.com/ios-filled/500/000000/empire.png" alt="empire"/>
 </div>
 
 #### GitHub Activity
