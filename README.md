@@ -34,14 +34,15 @@
 
 <div style="display: flex;justify-content: space-between" align="center">
 
+<img width="55" src="https://img.icons8.com/ios/500/chatgpt.png" alt="chatgpt"/>
 <img width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
 <img width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rabbitmq/rabbitmq-original.svg" />
 <img width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/elasticsearch/elasticsearch-original.svg" />
 <img width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" />
 <img width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swagger/swagger-original.svg" />
-<img width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />
+<img width="55" src="https://img.icons8.com/fluency/240/docker.png" alt="docker"/>
 <img width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/maven/maven-original.svg" />
-<img width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nginx/nginx-original.svg" />
+<img width="55" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/96/external-nginx-accelerates-content-and-application-delivery-improves-security-logo-color-tal-revivo.png" alt="external-nginx-accelerates-content-and-application-delivery-improves-security-logo-color-tal-revivo"/>
 
 </div>
 
@@ -59,6 +60,7 @@
 <div style="display: flex;justify-content: space-between" align="center">
 
 <img width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" />
+<img width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/streamlit/streamlit-original.svg" />
 <img width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" />
 <img width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuetify/vuetify-original.svg" />
 <img width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
