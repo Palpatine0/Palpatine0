@@ -1,4 +1,4 @@
-# Hi there 👋, my name is Percival 
+# Hi there 👋, my name is Seth 
 
 <br>
 <div align="center">
