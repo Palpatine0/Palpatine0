@@ -1,10 +1,5 @@
 # Hi there 👋, my name is Seth 
 
-<br>
-<div align="center">
-<img style="" width="80" height="80" src="https://img.icons8.com/ios-filled/500/000000/empire.png" alt="empire"/>
-</div>
-
 #### GitHub Activity
 <div align="center">
 
